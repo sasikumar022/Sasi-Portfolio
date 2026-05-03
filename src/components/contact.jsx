@@ -297,7 +297,7 @@ const Contact = () => {
 
             {/* INSTAGRAM */}
             <a
-              href="https://www.instagram.com/im_vishal.7/"
+              href="https://www.instagram.com/the_morningstar_sasi/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex justify-center"
