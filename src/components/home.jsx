@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import Navbar from "../comps/navbar";
-import vishal from "../img/vishal.jpg";
-import Cv from "../img/Vishal Resume.pdf";
+import vishal from "../img/Sasikumar_s.jpg";
+import Cv from "../img/Sasikumar_s.pdf";
 
 const Home = () => {
   const vantaRef = useRef(null);
